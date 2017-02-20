@@ -12,6 +12,7 @@
 		046E30F01E59B0ED000F335F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 046E30EE1E59B0ED000F335F /* Main.storyboard */; };
 		046E30F21E59B0ED000F335F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 046E30F11E59B0ED000F335F /* Assets.xcassets */; };
 		046E30F51E59B0ED000F335F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 046E30F31E59B0ED000F335F /* LaunchScreen.storyboard */; };
+		046E30FD1E59B364000F335F /* sounds in Resources */ = {isa = PBXBuildFile; fileRef = 046E30FC1E59B364000F335F /* sounds */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		046E30F11E59B0ED000F335F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		046E30F41E59B0ED000F335F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		046E30F61E59B0ED000F335F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		046E30FC1E59B364000F335F /* sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = sounds; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				046E30F11E59B0ED000F335F /* Assets.xcassets */,
 				046E30F31E59B0ED000F335F /* LaunchScreen.storyboard */,
 				046E30F61E59B0ED000F335F /* Info.plist */,
+				046E30FC1E59B364000F335F /* sounds */,
 			);
 			path = "Sound Shaker";
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			files = (
 				046E30F51E59B0ED000F335F /* LaunchScreen.storyboard in Resources */,
 				046E30F21E59B0ED000F335F /* Assets.xcassets in Resources */,
+				046E30FD1E59B364000F335F /* sounds in Resources */,
 				046E30F01E59B0ED000F335F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
